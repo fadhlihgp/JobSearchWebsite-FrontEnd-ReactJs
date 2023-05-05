@@ -1,0 +1,18 @@
+.App{
+    width: 70%;
+    margin: 50px auto;
+    padding: 20px 10px;
+    border: 1px rgb(222, 221, 221) solid;
+    box-shadow: 9px 12px 3px -9px rgba(101, 100, 100, 0.75);
+    border-radius: 7px;
+}
+.number{
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom:5px;
+}
+.Btn{
+    width: 100%;
+    padding : 5px;
+    margin-bottom: 15px;
+}
